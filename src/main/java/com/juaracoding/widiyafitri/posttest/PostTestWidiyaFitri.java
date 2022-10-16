@@ -1,4 +1,4 @@
-package com.juaracoding.widiyafitri;
+package com.juaracoding.widiyafitri.posttest;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
